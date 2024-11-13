@@ -13,3 +13,4 @@ aundis/mongo-database-tools:1.1
 redis:7.2
 nginx:1.27.2
 ghcr.io/immich-app/immich-server:v1.120.2
+ghcr.io/immich-app/immich-machine-learning:v1.120.2
