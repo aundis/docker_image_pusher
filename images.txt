@@ -15,3 +15,4 @@ nginx:1.27.2
 ghcr.io/immich-app/immich-server:v1.120.2
 ghcr.io/immich-app/immich-machine-learning:v1.120.2
 jrottenberg/ffmpeg:4.1-alpine
+esphome/esphome:2024.11.3
