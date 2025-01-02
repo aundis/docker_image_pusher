@@ -1,18 +1,8 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-portainer/portainer-ce:2.11.0
-portainer/portainer-ce:2.21.4
-tdengine/tdengine:3.3.2.0
-jc21/nginx-proxy-manager:2.9.14
-mongo:5.0
-aundis/mongo-database-tools:1.1
-redis:7.2
-nginx:1.27.2
-ghcr.io/immich-app/immich-server:v1.120.2
-ghcr.io/immich-app/immich-machine-learning:v1.120.2
-jrottenberg/ffmpeg:4.1-alpine
-esphome/esphome:2024.11.3
+#--platform=linux/arm64 xiaoyaliu/alist
+
+nodered/node-red:4.0.8-22-minimal
