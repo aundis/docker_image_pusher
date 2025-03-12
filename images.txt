@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nodered/node-red:4.0.8-22-minimal
+dperson/samba:23
