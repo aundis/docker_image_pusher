@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-postgres:15
-postgrest/postgrest:v13.0.0
+dpage/pgadmin4:9.3.0
