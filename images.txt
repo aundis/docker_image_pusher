@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-mariadb:10.11
-wordpress:6.8.1-php8.3-apache
+alpine:3.22
