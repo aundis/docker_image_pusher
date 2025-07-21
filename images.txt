@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-rustdesk/rustdesk-server:1.1.14
+ghcr.io/kingmo888/rustdesk-api-server:v1.5.3
