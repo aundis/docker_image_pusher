@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ghcr.io/kingmo888/rustdesk-api-server:v1.5.3
+filebrowser/filebrowser:v2.40.2-s6
