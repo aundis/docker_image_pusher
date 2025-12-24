@@ -5,6 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-mongo:4.0.3
-mysql:8.0.19
-openjdk:8
+esphome/esphome:2025.12.2
