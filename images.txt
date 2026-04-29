@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-esphome/esphome:2025.12.2
+caddy:2-alpine
