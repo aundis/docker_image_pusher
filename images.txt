@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-caddy:2-builder-alpine
+portainer/portainer-ce:lts
